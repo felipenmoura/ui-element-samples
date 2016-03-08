@@ -2,6 +2,10 @@
 
 A collection of UI element samples written with vanilla web platform features.
 
+## Check the demo online
+
+Visit [https://googlechrome.github.io/ui-element-samples](https://googlechrome.github.io/ui-element-samples)
+
 ## Getting started
 
 1. Clone the repo.
